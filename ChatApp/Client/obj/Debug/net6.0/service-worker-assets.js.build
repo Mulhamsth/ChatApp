@@ -857,19 +857,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-icFG2ekiFNpQRQhf6axLmNsnRcKMIhL5iULno0lErsc=",
+      "hash": "sha256-VFMNvi0\/2mMZt+m8bWv5reUhzFJBJcXGTPBz1nQioc0=",
       "url": "_framework\/ChatApp.Shared.dll"
     },
     {
-      "hash": "sha256-q7u86Z5MzQiLMh\/x7jd3lg0k7nPpVb0fdQOSj4s2vkc=",
+      "hash": "sha256-xoYJYwfWPTOkPM11HarwmWWQL3t2NU2LpaLZ9WXhUaw=",
       "url": "_framework\/ChatApp.Shared.pdb"
     },
     {
-      "hash": "sha256-Pp\/ZtqtX05nR6LISFjnZo\/P9sNmpo7dWmOmEzQtsx14=",
+      "hash": "sha256-Z\/IytVyi1Vv733D6Gw+iNlb9ZRHbQ68Q6fnoiDxrDNg=",
       "url": "_framework\/ChatApp.Client.dll"
     },
     {
-      "hash": "sha256-n4gKki8rPeBv3hgAd1x4qZuojgACuzoAUAwxGA09VCk=",
+      "hash": "sha256-S0VFbYsqH86XfdDVSpo1J2P9wK\/oNwdEXhnPkhYSLqk=",
       "url": "_framework\/ChatApp.Client.pdb"
     },
     {
@@ -877,9 +877,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-3tV8kxc2nfHIYFRyAOH7w\/X8YZCvene7tmLiWIRc3QQ=",
+      "hash": "sha256-b4LeMrEqqKieVRwiQ8gQzR6\/3VvYwUkHGFD0wPjRdRQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "SXkzC2OJ"
+  "version": "5Q4ohZGs"
 };
