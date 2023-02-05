@@ -15,5 +15,9 @@
     <ProjectReference Include="..\Shared\ChatApp.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DB\" />
+  </ItemGroup>
+
 
 </Project>

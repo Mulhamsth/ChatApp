@@ -1,7 +1,11 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-lDAEEaul32OkTANWkZgjgs4sFCsMdLsR5NJxrjVcXdo=",
+      "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
+      "url": "background.png"
+    },
+    {
+      "hash": "sha256-KSoke5xkOx8sIi6PMylnJdGW25VahJdD9qN65NbuRV0=",
       "url": "css\/app.css"
     },
     {
@@ -47,6 +51,10 @@
     {
       "hash": "sha256-p\/oxU91iBE+uaDr3kYOyZPuulf4YcPAMNIz6PRA\/tb0=",
       "url": "css\/open-iconic\/README.md"
+    },
+    {
+      "hash": "sha256-4Wfl5QBxyWTYCa+8vlBOk7\/V3lvo0jISGKkzv8OlMsI=",
+      "url": "exampleJsInterop.js"
     },
     {
       "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
@@ -865,11 +873,11 @@
       "url": "_framework\/ChatApp.Shared.pdb"
     },
     {
-      "hash": "sha256-Z\/IytVyi1Vv733D6Gw+iNlb9ZRHbQ68Q6fnoiDxrDNg=",
+      "hash": "sha256-\/pQ3VFkxHtf\/jCEp5zUdzawqCSlmN19BSK38Irqjc40=",
       "url": "_framework\/ChatApp.Client.dll"
     },
     {
-      "hash": "sha256-S0VFbYsqH86XfdDVSpo1J2P9wK\/oNwdEXhnPkhYSLqk=",
+      "hash": "sha256-opBliMBl\/98TlvHD9Z2QH+JACUo9NAXcdl5dS1D9h+w=",
       "url": "_framework\/ChatApp.Client.pdb"
     },
     {
@@ -877,9 +885,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-b4LeMrEqqKieVRwiQ8gQzR6\/3VvYwUkHGFD0wPjRdRQ=",
+      "hash": "sha256-lnxaFc0NdDE+7zbCL4vpRyH2NOdu+zVh9z2tTR6xab4=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "5Q4ohZGs"
+  "version": "m8pbTUnp"
 };

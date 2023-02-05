@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iD0TIQxemkS7OoHoqfk4kHzDRwlza4RPg7z0x+UB4Cg=",
+  "Hash": "H4YS1jME/Edw3E0eZ+hrhiyRqiibM7TFirLtmMVDOS8=",
   "Source": "ChatApp.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -6970,6 +6970,23 @@
       "OriginalItemSpec": "obj\\Debug\\net6.0\\service-worker-assets.js.build"
     },
     {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\background.png",
+      "SourceId": "ChatApp.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
       "Identity": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\css\\app.css",
       "SourceId": "ChatApp.Client",
       "SourceType": "Discovered",
@@ -7172,6 +7189,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "ChatApp.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\favicon.ico",

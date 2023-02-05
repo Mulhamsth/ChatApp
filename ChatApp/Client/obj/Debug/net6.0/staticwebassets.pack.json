@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
+      "Id": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
       "Id": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -67,6 +71,10 @@
     {
       "Id": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },
     {
       "Id": "C:\\Users\\Mulhamsth\\github\\ChatApp\\ChatApp\\Client\\wwwroot\\favicon.ico",

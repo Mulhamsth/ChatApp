@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-\/CRbZZ6en3BoMsR5fhsJCTE9TYhik+E7KU+O9cBdC9c=",
       "System.Private.CoreLib.dll": "sha256-ftEeXsH4HQ3J6VlVJuI3mbfqZxGyNtYVxuIQD\/8waHw=",
       "ChatApp.Shared.dll": "sha256-VFMNvi0\/2mMZt+m8bWv5reUhzFJBJcXGTPBz1nQioc0=",
-      "ChatApp.Client.dll": "sha256-t3uKglhKnCvsFj9RiYRUxftgHo3ybhrjqcIQrhHQZAM="
+      "ChatApp.Client.dll": "sha256-vGduF\/7qVgon9Vt9NHETHMzbcFzUmp19HlRa\/UYc\/dE="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "ChatApp.Shared.pdb": "sha256-xoYJYwfWPTOkPM11HarwmWWQL3t2NU2LpaLZ9WXhUaw=",
-      "ChatApp.Client.pdb": "sha256-zSF1EiSrEjAZL+jvo4iFUMq5O4bFHY0HB7SSkvEmRfg="
+      "ChatApp.Client.pdb": "sha256-GjmIhS5641wgVTgMh4h4w5Y7wSn0GAAJqR5A\/nSn2\/4="
     },
     "runtime": {
       "dotnet.6.0.12.qdjtct3ivq.js": "sha256-qD0QxS71qYTQZMj+JDk0IXr28ewa+pSDzShFKSNkQ+0=",
